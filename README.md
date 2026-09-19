@@ -20,7 +20,7 @@
 Passionate about designing robust distributed systems, I help organizations build resilient multi-cloud architectures, manage production Kubernetes at scale, and create secure tooling for engineering and AI teams.
 
 - 🏗️ **Mission-Critical Architectures**: Proven track record in high-stakes, regulated environments: Nuclear (EDF), Aviation (Air France), Sovereign Cloud (S3NS / SecNumCloud), and In-Memory FinTech (Singapore).
-- 🚀 **Product Vision & FinOps**: 5 years as technical co-founder & CTO building SaaS from 0 to 1; multi-client infrastructure portfolio operations (€330k budget at Skyloud, -15% FinOps optimization).
+- 🚀 **Product Vision & FinOps**: 5 years as technical co-founder & CTO building SaaS from 0 to 1; multi-client infrastructure portfolio operations (30 clients, -15% FinOps optimization).
 - 🤖 **AI & Agentic Systems**: LLMOps, sandboxing, and security harnesses for autonomous coding agents (Claude Code, Gemini CLI, Antigravity).
 
 ---
