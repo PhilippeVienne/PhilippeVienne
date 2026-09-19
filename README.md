@@ -3,7 +3,7 @@
 <div align="center">
 
 ### **Cloud & DevOps Solutions Architect • Former Startup Co-Founder & CTO**
-*15 Years of Experience • Specialist in Resilient Multi-Cloud Architectures, Kubernetes & Regulated Environments*
+*Passionate about resilient distributed systems, sovereign cloud platforms & agentic AI tooling.*
 
 [![Website](https://img.shields.io/badge/Portfolio-philippe.vienne.me-003399?style=flat-square&logo=google-chrome&logoColor=white)](https://philippe.vienne.me/en/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pvienne-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvienne/)
