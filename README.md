@@ -1,72 +1,72 @@
-# Salut, moi c'est Philippe ! 👋
+# Hi, I'm Philippe Vienne 👋
 
 <div align="center">
 
-### **Architecte Cloud & DevOps • Ex-CTO Startup • Ingénieur INSA Lyon**
-*15 ans d'expérience • Spécialiste Architectures Résilientes, Multi-Cloud, Kubernetes & Environnements Régulés*
+### **Cloud & DevOps Solutions Architect • Former Startup Co-Founder & CTO**
+*15 Years of Experience • Specialist in Resilient Multi-Cloud Architectures, Kubernetes & Regulated Environments*
 
-[![Website](https://img.shields.io/badge/Portfolio-philippe.vienne.me-003399?style=flat-square&logo=google-chrome&logoColor=white)](https://philippe.vienne.me)
+[![Website](https://img.shields.io/badge/Portfolio-philippe.vienne.me-003399?style=flat-square&logo=google-chrome&logoColor=white)](https://philippe.vienne.me/en/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pvienne-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pvienne/)
-[![JSON Resume](https://img.shields.io/badge/JSON_Resume-v1.0.0-003399?style=flat-square&logo=json)](https://philippe.vienne.me/resume.json)
+[![JSON Resume](https://img.shields.io/badge/JSON_Resume-v1.0.0-003399?style=flat-square&logo=json)](https://philippe.vienne.me/en/resume.json)
 [![llms.txt](https://img.shields.io/badge/LLMs.txt-Agent_Ready-FFCC00?style=flat-square&logo=openai&logoColor=black)](https://philippe.vienne.me/llms.txt)
-[![Location](https://img.shields.io/badge/Localisation-Lyon%2C%20France-lightgrey?style=flat-square&logo=google-maps&logoColor=red)](https://philippe.vienne.me)
+[![Location](https://img.shields.io/badge/Location-Lyon%2C%20France%20(Remote%2FHybrid)-lightgrey?style=flat-square&logo=google-maps&logoColor=red)](https://philippe.vienne.me/en/)
 
 </div>
 
 ---
 
-### 🏛️ À propos
+### 🏛️ About Me
 
-Passionné par la conception de systèmes distribués robustes, j'accompagne les entreprises dans le déploiement d'architectures cloud résilientes, la gouvernance Kubernetes, et l'outillage pour les équipes d'ingénierie et d'IA.
+Passionate about designing robust distributed systems, I help organizations build resilient multi-cloud architectures, manage production Kubernetes at scale, and create secure tooling for engineering and AI teams.
 
-- 🏗️ **Architectures critiques** : Expérience éprouvée dans les secteurs réglementés (Nucléaire EDF, Aérien Air France, Cloud Souverain S3NS / SecNumCloud, FinTech à Singapour).
-- 🚀 **Vision produit & FinOps** : Ancien co-fondateur tech & CTO de startup (5 ans), gestion de portefeuille multi-clients (30 clients, FinOps -15%).
-- 🤖 **IA & Systèmes Agentiques** : Intégration de LLMs, outillage de sandboxing sécurisé pour agents autonomes (Claude Code, Gemini CLI, Antigravity).
+- 🏗️ **Mission-Critical Architectures**: Proven track record in high-stakes, regulated environments: Nuclear (EDF), Aviation (Air France), Sovereign Cloud (S3NS / SecNumCloud), and In-Memory FinTech (Singapore).
+- 🚀 **Product Vision & FinOps**: 5 years as technical co-founder & CTO building SaaS from 0 to 1; multi-client infrastructure portfolio operations (€330k budget at Skyloud, -15% FinOps optimization).
+- 🤖 **AI & Agentic Systems**: LLMOps, sandboxing, and security harnesses for autonomous coding agents (Claude Code, Gemini CLI, Antigravity).
 
 ---
 
-### 🚀 Projets Phares & Récents
+### 🚀 Featured & Recent Projects
 
-| Projet | Description | Technologies |
+| Project | Description | Tech Stack |
 |---|---|---|
-| 🛡️ **[atelier](https://github.com/PhilippeVienne/atelier)** | Environnement sécurisé et sandboxé pour agents de code (Claude Code, Gemini CLI) basé sur **Kubernetes** et microVMs **Firecracker**. | `Kubernetes` `Firecracker` `Docker` `Go` |
-| 🌐 **[whoami](https://github.com/PhilippeVienne/whoami)** | Portfolio & CV professionnel ATS-compatible, générateur de PDF vectoriel, standard **JSON Resume** et point d'entrée **llms.txt** pour les agents IA. | `TypeScript` `Node.js` `Chrome Headless` `HTML/CSS` |
-| 🔒 **[agy-plugin-guardrail](https://github.com/PhilippeVienne/agy-plugin-guardrail)** | Harness de sécurité et mode automatique inspiré de Claude Code pour le CLI **Antigravity (agy)**. | `TypeScript` `Antigravity` `Security` |
-| 🎬 **[bunker-parody](https://github.com/PhilippeVienne/bunker-parody)** | CLI automatisé et skill Antigravity pour concevoir, calibrer au timing/CPS et encoder des parodies 1080p du bunker (*Der Untergang*). | `Python` `FFmpeg` `CLI` `Antigravity` |
-| ♟️ **[chess](https://github.com/PhilippeVienne/chess)** | Application Android de puzzles d'échecs avec ligues, profils joueurs et synchronisation cloud. | `Android` `Kotlin` `Jetpack Compose` |
-| 🎙️ **[nestor](https://github.com/PhilippeVienne/nestor)** | Serveur audio IA pour la transcription et l'analyse de conversations propulsé par **OpenAI Whisper** et **AWS Bedrock**. | `Python` `Whisper` `AWS Bedrock` `FastAPI` |
+| 🛡️ **[atelier](https://github.com/PhilippeVienne/atelier)** | Secure, sandboxed runtime for autonomous coding agents (Claude Code, Gemini CLI) powered by **Kubernetes** and **Firecracker** microVMs. | `Kubernetes` `Firecracker` `Docker` `Go` |
+| 🌐 **[whoami](https://github.com/PhilippeVienne/whoami)** | ATS-optimized portfolio & resume generator, vector PDF builder, standard **JSON Resume v1.0.0**, and **llms.txt** entrypoint for AI agents. | `TypeScript` `Node.js` `Chrome Headless` `HTML/CSS` |
+| 🔒 **[agy-plugin-guardrail](https://github.com/PhilippeVienne/agy-plugin-guardrail)** | Security guardrail and auto-mode harness inspired by Claude Code for the **Antigravity (agy)** CLI. | `TypeScript` `Antigravity` `Security` |
+| 🎬 **[bunker-parody](https://github.com/PhilippeVienne/bunker-parody)** | Automated CLI and Antigravity skill to craft, calibrate (CPS ≤ 18.5) and encode 1080p *Der Untergang* bunker parodies. | `Python` `FFmpeg` `CLI` `Antigravity` |
+| ♟️ **[chess](https://github.com/PhilippeVienne/chess)** | Android chess puzzle game featuring leagues, player profiles, and cloud synchronization. | `Android` `Kotlin` `Jetpack Compose` |
+| 🎙️ **[nestor](https://github.com/PhilippeVienne/nestor)** | AI-powered audio transcription and conversation analysis server powered by **OpenAI Whisper** and **AWS Bedrock**. | `Python` `Whisper` `AWS Bedrock` `FastAPI` |
 
 ---
 
-### 🏆 Certifications Vérifiées
+### 🏆 Verified Certifications
 
 <div align="center">
 
-| Badge | Certification | Émetteur | Validité |
+| Badge | Certification | Issuer | Validity |
 |:---:|---|:---:|:---:|
 | ☁️ | **[AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/14eabfb5-f2a6-4b5b-9ee2-d75afe8f6fae/public_url)** | Amazon Web Services | 2024 – 2027 |
 | 🤖 | **[Claude Certified Developer – Foundations](https://www.credly.com/badges/be323437-24ed-4a02-b1bf-933c265d39da/public_url)** | Anthropic | 2026 – 2027 |
 | 🌐 | **[Google Cloud Certified – Associate Cloud Engineer](https://www.credly.com/badges/736ef7d0-5577-44eb-a1ca-ea4484aba404/public_url)** | Google Cloud | 2026 – 2029 |
 | 📐 | **[HashiCorp Certified : Terraform Associate (003)](https://www.credly.com/badges/51e949dd-10f6-4198-b8f9-6d27b6066f28/public_url)** | HashiCorp | 2025 – 2027 |
-| ☁️ | **[AWS Certified Developer / CloudOps / AI Practitioner](https://www.credly.com/users/philippe-vienne)** | Amazon Web Services | Actif |
+| ☁️ | **[AWS Certified Developer / CloudOps / AI Practitioner](https://www.credly.com/users/philippe-vienne)** | Amazon Web Services | Active |
 
 </div>
 
 ---
 
-### 🛠️ Stack Technique & Compétences
+### 🛠️ Technical Stack & Core Competencies
 
-- **Cloud & Plateformes** : AWS, Google Cloud Platform (GCP), Microsoft Azure, Cloud Souverain (S3NS / SecNumCloud), Scaleway, OVHcloud
-- **Conteneurs & Orchestration** : Kubernetes (EKS, GKE, RKE), Red Hat OpenShift, Docker, Helm, Microservices, Multi-Cluster
-- **Infrastructure as Code & CI/CD** : HashiCorp Terraform, Ansible, GitHub Actions, GitLab CI, ArgoCD
-- **Développement** : Go, TypeScript, Python, Kotlin, Java, React, Ruby on Rails
-- **Sécurité & Méthodes** : DevSecOps, FinOps (-15% de coûts opérationnels), Landing Zones, Architecture Résiliente, SRE
+- **Cloud & Platforms**: Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, Sovereign Cloud (S3NS / SecNumCloud), Scaleway, OVHcloud
+- **Containers & Orchestration**: Kubernetes (EKS, GKE, RKE), Red Hat OpenShift, Docker, Helm, Microservices Architecture, Multi-Cluster Management
+- **Infrastructure as Code & CI/CD**: HashiCorp Terraform, Ansible, GitHub Actions, GitLab CI, ArgoCD
+- **Languages & Frameworks**: Go, TypeScript, Python, Kotlin, Java (Spring, In-Memory OLAP), React, Ruby on Rails
+- **Security & Governance**: Security by Design & DevSecOps, FinOps (-15% operational costs), Landing Zones, Resilient Architecture, SRE
 
 ---
 
 <div align="center">
 
-💬 *Envie d'échanger sur l'architecture Cloud, Kubernetes ou les agents d'IA ?*  
-Retrouvez-moi sur **[LinkedIn](https://www.linkedin.com/in/pvienne/)** ou découvrez mon parcours complet sur **[philippe.vienne.me](https://philippe.vienne.me)** !
+💬 *Interested in cloud architecture, Kubernetes, or agentic AI systems?*  
+Connect with me on **[LinkedIn](https://www.linkedin.com/in/pvienne/)** or explore my full interactive resume at **[philippe.vienne.me/en/](https://philippe.vienne.me/en/)**!
 
 </div>
