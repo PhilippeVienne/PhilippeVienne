@@ -29,6 +29,7 @@ Passionate about designing robust distributed systems, I help organizations buil
 
 | Project | Description | Tech Stack |
 |---|---|---|
+| 🏛️ **[open-eidas](https://github.com/open-eidas/open-eidas)** | The *"Let's Encrypt"* of European eIDAS trust services — qualified RFC 3161 timestamping authority, PKI, open-source and rent-free sovereign digital trust. | `Go` `PKI / RFC 3161` `Kubernetes` `ArgoCD` `eIDAS` |
 | 🛡️ **[atelier](https://github.com/PhilippeVienne/atelier)** | Secure, sandboxed runtime for autonomous coding agents (Claude Code, Gemini CLI) powered by **Kubernetes** and **Firecracker** microVMs. | `Kubernetes` `Firecracker` `Docker` `Go` |
 | 🌐 **[whoami](https://github.com/PhilippeVienne/whoami)** | ATS-optimized portfolio & resume generator, vector PDF builder, standard **JSON Resume v1.0.0**, and **llms.txt** entrypoint for AI agents. | `TypeScript` `Node.js` `Chrome Headless` `HTML/CSS` |
 | 🔒 **[agy-plugin-guardrail](https://github.com/PhilippeVienne/agy-plugin-guardrail)** | Security guardrail and auto-mode harness inspired by Claude Code for the **Antigravity (agy)** CLI. | `TypeScript` `Antigravity` `Security` |
